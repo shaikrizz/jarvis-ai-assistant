@@ -1,0 +1,5 @@
+[16:11:51] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
+[16:12:06] JARVIS: Sir?
+[16:12:20] You: can you see me
+[16:12:21] JARVIS: Sir, I have access to a live camera feed, and I can see you through it. However, I'd like to clarify that my vision is limited to what the camera shows me, and I don't have personal opinions or feelings about your appearance. If you'd like, I can analyze the image and provide more information about your surroundings, Sir.
+[16:12:56] JARVIS: Could you repeat that, Sir?

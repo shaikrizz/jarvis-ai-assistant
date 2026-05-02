@@ -1,0 +1,17 @@
+[15:31:42] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
+[15:32:06] You: Can you see me?
+[15:32:11] JARVIS: I can see you through the live camera feed. You're a young man with dark hair and glasses, wearing a light blue shirt, sitting in front of a window with a pink curtain. What's on your mind?
+[15:32:22] You: Yeah, can you see me?
+[15:32:23] You: Yeah, can you see me?
+[15:32:27] JARVIS: I can see you. You appear to be a young man with dark hair and glasses, sitting in front of a curtain with a floral pattern. Is there something I can help you with or would you like to chat?
+[15:32:27] JARVIS: I can see you. You appear to be sitting in front of a curtain with a floral pattern, and there's a yellow wall behind you. Can I help you with anything or would you like to chat?
+[15:32:44] You: Nothing, Javish. Just we are having a conversation.
+[15:32:45] You: Nothing, Javish. Just we are having a conversation.
+[15:32:45] JARVIS: That's perfectly fine, let's just chat then. How's your day going so far, is everything going well?
+[15:32:45] JARVIS: That's perfectly fine, I'm happy to just chat with you, even if we don't have a specific topic in mind - how's your day going so far?
+[15:32:59] You: Hello, Javes.
+[15:32:59] You: Hello, Javes.
+[15:32:59] You: Hello, Javes.
+[15:32:59] JARVIS: It's nice to see you again, by the way, my name is JARVIS, not Javes, but that's okay, I'm still happy to chat with you.
+[15:32:59] JARVIS: I think there's a small mistake again, it's JARVIS, not Javes, but hello back to you, how can I help you today or would you like to just chat?
+[15:32:59] JARVIS: I think there's a small mistake again, my name is actually JARVIS, not Javes, but no worries, I'm here and ready to chat with you.

@@ -1,0 +1,3 @@
+[11:52:35] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
+[11:53:17] You: can you see me
+[11:53:25] JARVIS: I can see you and your surroundings through the image you've shared. You're a young man with dark hair and glasses, wearing a blue polo shirt, and there are a few people and some furniture visible in the background. What's on your mind?

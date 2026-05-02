@@ -1,0 +1,11 @@
+[16:00:07] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
+[16:00:22] JARVIS: Sir?
+[16:00:31] You: can you see me
+[16:00:32] JARVIS: Sir, I'm not capable of visually seeing you as I'm a text-based AI assistant. I can only interact with you through text conversations and do not have the ability to access any visual data. I'm here to help answer your questions and provide information, though. How can I assist you today, Sir?
+[16:01:07] You: but the camera is on and
+[16:01:07] JARVIS: Sir, even if the camera is on, I don't have the capability to access or view the camera feed. My interactions are limited to text-based communication, and I don't have the ability to visually perceive or access any visual data, Sir. Your privacy is maintained, and I'm here to provide information and assist with your questions through text only.
+[16:01:39] JARVIS: Could you repeat that, Sir?
+[16:01:49] JARVIS: Could you repeat that, Sir?
+[16:02:01] You: wait for me Jarvis I am not talking to you wait
+[16:02:01] JARVIS: Sir, I'll wait. It seems you're expecting someone or something else to respond. I'll remain here, ready to assist you when you're ready to continue our conversation, Sir.
+[16:02:27] JARVIS: Could you repeat that, Sir?
