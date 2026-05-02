@@ -1,8 +1,0 @@
-[16:14:57] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
-[16:15:19] JARVIS: Sir?
-[16:15:31] JARVIS: Could you repeat that, Sir?
-[16:15:45] You: hello Jarvis
-[16:15:46] JARVIS: Hello Sir, I'm online and ready to assist you. What can I help you with today, Sir?
-[16:16:01] JARVIS: Could you repeat that, Sir?
-[16:16:14] JARVIS: Could you repeat that, Sir?
-[16:16:26] JARVIS: Could you repeat that, Sir?

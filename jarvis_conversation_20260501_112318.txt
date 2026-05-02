@@ -1,7 +1,0 @@
-[11:23:21] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
-[11:23:43] JARVIS: Sir?
-[11:23:51] You: can you see me
-[11:23:51] JARVIS: Analyzing visual input, Sir.
-[11:23:56] JARVIS: Sir, I can see the image you provided, which appears to be a photograph of a man with dark hair and glasses. I can also see a person in the background and a room with orange curtains.
-[11:24:19] You: that man is actually me
-[11:24:19] JARVIS: I've identified you in the camera feed, Sir.

@@ -1,7 +1,0 @@
-[11:27:52] JARVIS: JARVIS online. Say Hey Jarvis to wake me up, or type below. How can I assist you Sir?
-[11:28:07] JARVIS: Sir?
-[11:28:19] You: will you say how many persons can you see through the camera feed
-[11:28:19] JARVIS: Analyzing visual input, Sir.
-[11:28:26] JARVIS: Sir, I can see 3 persons through the camera feed.
-[11:28:46] You: I want to make a few upgradations to can you wait for me
-[11:28:46] JARVIS: I'll pause and wait for your further instructions, Sir.

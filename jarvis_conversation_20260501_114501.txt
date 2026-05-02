@@ -1,6 +1,0 @@
-[11:45:35] You: can you see me
-[11:45:49] JARVIS: Sir, I can see you through the live camera feed. You appear to be in a room with a few people in the background, and you're wearing a blue shirt and sunglasses.
-[11:46:06] You: ok can you tell me how many people are there
-[11:46:06] JARVIS: Sir, according to the latest data, the estimated global population is approximately 7.9 billion people. Would you like to know more about population trends or demographics?
-[11:46:29] You: I mean how many people can you see through the camera
-[11:46:34] JARVIS: Sir, I can see four people in the image. The main person in focus is you, and there are three others partially visible in the background.
